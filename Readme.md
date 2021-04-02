@@ -1,3 +1,7 @@
+Adopted Codes!
+
+We aim of capturing wifi beacons in Android
+
 Android Pcap Capture
 
 USB Host-mode capture using the RTL8187 USB NIC.
